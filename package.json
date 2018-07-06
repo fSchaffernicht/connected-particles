@@ -1,0 +1,11 @@
+{
+  "name": "connected-particles",
+  "version": "1.0.0",
+  "description": "canvas with connected floating particles",
+  "main": "main.js",
+  "author": "Felix Schaffernicht",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
